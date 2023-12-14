@@ -1,0 +1,20 @@
+
+@media screen and (min-width: 25em) {
+  html {
+    font-size: 112.5%;
+  } /* 1rem = 18px */
+}
+
+p {
+  font-size: var(--scale0);
+}
+
+
+
+h1 {
+  text-shadow: 0.1rem 0.1rem 0.1rem #ccc;
+}
+
+.div-that-you want-to-stand-out {
+  box-shadow: 0 0 1em 1em #ccc;
+}
