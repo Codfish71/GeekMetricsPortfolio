@@ -10,5 +10,6 @@ import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
   styleUrl: './header.component.css'
 })
 export class HeaderComponent {
-
+  name = 'Angular';
+  public isCollapsed = true;
 }
