@@ -208,3 +208,7 @@ section {
   border-radius: 30px;
   overflow: hidden;
 }
+
+hr {
+  margin: 2rem 0;
+}
