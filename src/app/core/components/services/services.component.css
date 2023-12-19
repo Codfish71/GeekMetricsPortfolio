@@ -10,11 +10,6 @@ p {
 }
 
 
-
-h1 {
-  text-shadow: 0.1rem 0.1rem 0.1rem #ccc;
-}
-
 .div-that-you want-to-stand-out {
   box-shadow: 0 0 1em 1em #ccc;
 }
