@@ -5,9 +5,6 @@
   } /* 1rem = 18px */
 }
 
-p {
-  font-size: var(--scale0);
-}
 
 
 .div-that-you want-to-stand-out {
